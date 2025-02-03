@@ -1,11 +1,15 @@
 {
-     "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
+    
  
   "sites": [
-{"key":"文才","name":"🖊文才┃影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"小苹果","name":"🍎苹果┃影视","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"飞飞","name":"🛫飞飞┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片年代":"<div class=\"module-info-tag\">&&</div>","影片地区":"宝盒专享","影片状态":"备注：&&</div>","影片类型":"module-info-tag\">&&立即播放","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"}},
-{"key": "csp_SuBaiBai", "name": "⬜白白┃影视", "type": 3, "api": "csp_SuBaiBai","playerType": 2,"ext": "https://www.subaibaiys.com/"},
+{"key":"文才","name":"🖊文才┃影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
+"jar":"https://gh-proxy.com/github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
+{"key":"小苹果","name":"🍎苹果┃影视","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
+"jar":"https://gh-proxy.com/github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
+{"key":"飞飞","name":"🛫飞飞┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片年代":"<div class=\"module-info-tag\">&&</div>","影片地区":"宝盒专享","影片状态":"备注：&&</div>","影片类型":"module-info-tag\">&&立即播放","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"},
+"jar":"https://gh-proxy.com/github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
+{"key": "csp_SuBaiBai", "name": "⬜白白┃影视", "type": 3, "api": "csp_SuBaiBai","playerType": 2,"ext": "https://www.subaibaiys.com/",
+"jar":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main"},
 {"key": "剧圈圈","name": "⭕剧圈圈｜影视","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/剧圈圈.js",
 "jar":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.jar"},
 {"key": "韩小圈","name": "🔘韩小圈｜APP","type": 3,"api": "csp_HanXiaoQuan","searchable": 1,"quickSearch": 1,"filterable": 1,
