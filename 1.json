@@ -76,14 +76,21 @@
             "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
         ]
     },
+    
+
     {
         "name": "量子",
         "hosts": [
+            "lz",
             "vip.lz",
             "hd.lz",
+            "v.cdnlz",
             ".cdnlz"
         ],
         "regex": [
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "17.19"
@@ -92,6 +99,7 @@
     {
         "name": "非凡",
         "hosts": [
+            "ffzy",
             "vip.ffzy",
             "hd.ffzy",
             "super.ffzy"
