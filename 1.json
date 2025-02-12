@@ -70,10 +70,15 @@
         "hosts": [
             "bfzy",
             "bfbfvip",
-            "bfengbf"
+            "bfengbf",
+            "c1"
         ],
         "regex": [
-            "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
+            "#EXTINF.*?\\s+.*?adjump.*?\\.ts",
+            
+            "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+            "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+           
         ]
     },
     
@@ -105,6 +110,9 @@
             "super.ffzy"
         ],
         "regex": [
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+           
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
@@ -125,6 +133,21 @@
             "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
         ]
     },
+    
+    {
+            "name": "开源棋牌",
+            "hosts": [
+                "askzycdn",
+                "jkunbf",
+                "bfikuncdn",
+                "bfaskcdn"
+            ],
+            "regex": [
+                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        
     {
         "name": "快看",
         "hosts": [
