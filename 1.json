@@ -2,7 +2,7 @@
     
  
   "sites": [
-{"key":"文才","name":"🖊文才┃影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
+{"key":"文才","name":"🖊文才┃影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},
 "jar":"https://gh-proxy.com/http://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
 
 //{"key":"csp_LiteApple","name":"🍎苹果┃1080P","type":3,"api":"csp_LiteApple",
@@ -123,7 +123,7 @@
         {
         "name": "ryplay",
         "hosts": [
-            ""
+            "ryplay"
         ],
         "regex": [
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.533333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
