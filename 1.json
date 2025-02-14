@@ -20,8 +20,8 @@
 {"key": "韩小圈","name": "🔘韩小圈｜APP","type": 3,"api": "csp_HanXiaoQuan","searchable": 1,"quickSearch": 1,"filterable": 1,
 "jar":"https://gh-proxy.com/http://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
 
-{"key":"图图","name":"🦭图图┃App","type":3,"api":"csp_APPTT","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA==",
-"jar":"https://gh-proxy.com/http://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
+//{"key":"图图","name":"🦭图图┃App","type":3,"api":"csp_APPTT","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA==",
+//"jar":"https://gh-proxy.com/http://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
 
 //{"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/guot55/yg/refs/heads/main/h/tvbyun.json",
 //"jar":"https://gh-proxy.com/github.com/guot55/yg/raw/refs/heads/main/jar/xBPQ_1106.jar"},
