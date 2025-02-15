@@ -33,8 +33,8 @@
 //{"key":"︎酷云","name":"🐰米兔┃1080P","type":3,"quickSearch":0,"api":"csp_MiTuApp","ext":"sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk=",
 //"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"},
 
-{"key": "看客影视","name": "看客｜影视","type": 3,"api": "csp_Kanke","searchable": 1,"quickSearch": 1,"filterable": 1,
-"jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},      
+//{"key": "看客影视","name": "看客｜影视","type": 3,"api": "csp_Kanke","searchable": 1,"quickSearch": 1,"filterable": 1,
+//"jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},      
 
 //{"key": "量子资源", "name": "🥑量子┃资源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=", "searchable": 1, "quickSearch": 1, "changeable":0, "filterable": 0, "categories": [ "国产剧", "国产动漫", "泰国剧", "台湾剧", "香港剧", "欧美剧", "韩国剧", "日本剧", "动漫", "体育", "剧情片", "动作片", "爱情片", "喜剧片" ] },
 
