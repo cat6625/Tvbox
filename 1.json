@@ -5,7 +5,7 @@
 {"key":"文才","name":"🖊文才┃影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},
 "jar":"https://gh-proxy.com/http://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
 
-//{"key":"csp_LiteApple","name":"🍎苹果┃1080P","type":3,"api":"csp_LiteApple",
+//{"key":"csp_LiteApple","name":"🍎苹果┃影视","type":3,"api":"csp_LiteApple",
 //"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"},
 
 
@@ -30,7 +30,7 @@
 //{"key":"csp_XBPQ剧圈圈在线","name":"⭕剧圈圈在线","type":3,"api":"csp_XBPQ","searchable":1,"filterable":0,"changeable":0,"ext":{"主页url":"https://www.jqqzx.cc","请求头":"Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1","分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电视剧$juji#电影$dianying#动漫$dongman#爽剧$shuangju#综艺$zongyi#纪录片$jilupian"},
 //"jar":"https://gh-proxy.com/http://github.com/ysztcn/ysztcn.github.io/raw/refs/heads/master/tvbox/jar/X.jar"},
 
-{"key":"︎酷云","name":"🐰米兔┃1080P","type":3,"quickSearch":0,"api":"csp_MiTuApp","ext":"sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk=",
+{"key":"米兔","name":"🐰米兔┃影视","type":3,"quickSearch":0,"api":"csp_MiTuApp","ext":"sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk=",
 "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"},
 
 //{"key": "看客影视","name": "看客｜影视","type": 3,"api": "csp_Kanke","searchable": 1,"quickSearch": 1,"filterable": 1,
