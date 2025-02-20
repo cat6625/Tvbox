@@ -24,8 +24,8 @@
 {"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/http://raw.githubusercontent.com/guot55/yg/refs/heads/main/h/tvbyun.json",
 "jar":"https://gh-proxy.com/http://github.com/guot55/yg/raw/refs/heads/main/jar/xBPQ_1106.jar"},
 
-//{"key":"时常","name":" 💦时常","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ=",
-//"jar":"https://gh-proxy.com/http://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
+{"key":"时常","name":" 💦时常","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ=",
+"jar":"https://gh-proxy.com/http://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
 
 //{"key":"csp_XBPQ剧圈圈在线","name":"⭕剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"filterable":0,"changeable":0,"ext":{"主页url":"https://www.jqqzx.cc","请求头":"Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1","分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电视剧$juji#电影$dianying#动漫$dongman#爽剧$shuangju#综艺$zongyi#纪录片$jilupian"},
 //"jar":"https://gh-proxy.com/http://github.com/ysztcn/ysztcn.github.io/raw/refs/heads/master/tvbox/jar/X.jar"},
@@ -187,6 +187,7 @@
             "yzzy-dy"
         ],
         "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "16.63",
             "17.66"
         ]
