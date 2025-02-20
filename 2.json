@@ -178,14 +178,12 @@
     {
         "name": "1080zyk",
         "hosts": [
-            "high24-playback",
-            "high20-playback",
-            "yzzy.play",
-            "yzzy-dy"
+            "playback",
+            "yzzy"
         ],
         "regex": [
-            "16.63",
-            "17.66"
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXTINF:3.333333,[\\s\\S]*?"
         ]
     },
     {
