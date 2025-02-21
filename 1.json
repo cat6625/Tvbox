@@ -5,15 +5,8 @@
 {"key":"文才","name":"🖊文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},
 "jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
 
-//{"key":"csp_LiteApple","name":"🍎苹果","type":3,"api":"csp_LiteApple",
-//"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"},
-
-
 {"key":"飞飞","name":"🛫飞飞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片年代":"<div class=\"module-info-tag\">&&</div>","影片地区":"宝盒专享","影片状态":"备注：&&</div>","影片类型":"module-info-tag\">&&立即播放","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"},
 "jar":"https://gh-proxy.com/https://github.com/ysztcn/ysztcn.github.io/raw/refs/heads/master/tvbox/jar/X.jar"},
-
-//{"key": "csp_SuBaiBai", "name": "⬜白白", "type": 3, "api": "csp_SuBaiBai","playerType": 2,"ext": "https://www.subaibaiys.com/",
-//"jar":"https://gh-proxy.com/https://github.com/guot55/yg/raw/refs/heads/main/pg/bhtv.jar"},
 
 {"key": "素白白","name":"⬜素白白","type": 3,
 "api": "https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
@@ -23,25 +16,17 @@
 {"key": "韩小圈","name": "🔘韩小圈","type": 3,"api": "csp_HanXiaoQuan","searchable": 1,"quickSearch": 1,"filterable": 1,
 "jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
 
-//{"key":"图图","name":"🦭图图","type":3,"api":"csp_APPTT","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA==",
-//"jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
-
 {"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/http://raw.githubusercontent.com/guot55/yg/refs/heads/main/h/tvbyun.json",
 "jar":"https://gh-proxy.com/https://github.com/guot55/yg/raw/refs/heads/main/jar/xBPQ_1106.jar"},
 
 {"key":"时常","name":" 💦时常","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ=",
 "jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
 
-//{"key":"csp_XBPQ剧圈圈在线","name":"⭕剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"filterable":0,"changeable":0,"ext":{"主页url":"https://www.jqqzx.cc","请求头":"Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1","分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电视剧$juji#电影$dianying#动漫$dongman#爽剧$shuangju#综艺$zongyi#纪录片$jilupian"},
-//"jar":"https://gh-proxy.com/https://github.com/ysztcn/ysztcn.github.io/raw/refs/heads/master/tvbox/jar/X.jar"},
+{"key":"csp_XBPQ剧圈圈在线","name":"⭕剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"filterable":0,"changeable":0,"ext":{"主页url":"https://www.jqqzx.cc","请求头":"Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1","分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电视剧$juji#电影$dianying#动漫$dongman#爽剧$shuangju#综艺$zongyi#纪录片$jilupian"},
+"jar":"https://gh-proxy.com/https://github.com/ysztcn/ysztcn.github.io/raw/refs/heads/master/tvbox/jar/X.jar"},
 
 {"key":"米兔","name":"🐰米兔","type":3,"quickSearch":0,"api":"csp_MiTuApp","ext":"sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk=",
 "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"},
-
-//{"key": "看客影视","name": "看客","type": 3,"api": "csp_Kanke","searchable": 1,"quickSearch": 1,"filterable": 1,
-//"jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},      
-
-//{"key": "量子资源", "name": "🥑量子┃资源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=", "searchable": 1, "quickSearch": 1, "changeable":0, "filterable": 0, "categories": [ "国产剧", "国产动漫", "泰国剧", "台湾剧", "香港剧", "欧美剧", "韩国剧", "日本剧", "动漫", "体育", "剧情片", "动作片", "爱情片", "喜剧片" ] },
 
 {"key":"T4-独播库","name":"🔥️独播库","type":4,"api":"https://tang.hz.cz/power/duboku?token=48da13fc","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://4tvbox.ggff.net/GM.jar"}
 ],
@@ -70,94 +55,63 @@
         {"host": "dyxs20.com","rule": [".m3u8"]},
         {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
         {"host": "www.sharenice.net","rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*","qianpailive.com","vid="]},
-        //非凡，量子，索尼，暴风
+
         {
         "name": "暴风",
-        "hosts": [
-            "bfzy",
-            "bfbfvip",
-            "bfengbf",
-            "c1"
-        ],
+        "hosts": ["bfzy","bfbfvip","bfengbf","c1"],
         "regex": [
             "#EXTINF.*?\\s+.*?adjump.*?\\.ts",
-            
             "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
             "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-           
         ]
-    },
+        },
     
-
-    {
+        {
         "name": "量子",
-        "hosts": [
-            "lz",
-            "vip.lz",
-            "hd.lz",
-            "v.cdnlz",
-            ".cdnlz"
-        ],
+        "hosts": ["lz","vip.lz","hd.lz","v.cdnlz",".cdnlz"],
         "regex": [
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "17.19"
         ]
-    },
-    {
+        },
+   
+        {
         "name": "非凡",
-        "hosts": [
-            "ffzy",
-            "vip.ffzy",
-            "hd.ffzy",
-            "super.ffzy"
-        ],
+        "hosts": ["ffzy","vip.ffzy","hd.ffzy","super.ffzy"],
         "regex": [
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.566667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            
         ]
-    },
+        },
     
         {
         "name": "ryplay",
-        "hosts": [
-            "ryplay"
-        ],
+        "hosts": ["ryplay"],
         "regex": [
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.533333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-           
         ]
-    },
+        },
     
-    
-    {
+        {
         "name": "索尼",
-        "hosts": [
-            "suonizy"
-        ],
+        "hosts": ["suonizy"],
         "regex": [
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
             "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
         ]
-    },
+        },
     
-    {
-            "name": "开源棋牌",
-            "hosts": [
-                "askzycdn",
-                "jkunbf",
-                "bfikuncdn",
-                "bfaskcdn"
-            ],
-            "regex": [
+        {
+        "name": "开源棋牌",
+        "hosts": ["askzycdn","jkunbf","bfikuncdn","bfaskcdn"],
+        "regex": [
                 "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
@@ -165,57 +119,23 @@
         
     {
         "name": "快看",
-        "hosts": [
-            "kuaikan"
-        ],
+        "hosts": ["kuaikan"],
         "regex": [
             "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
         ]
     },
-    {
-        "name": "leshiyun",
-        "hosts": [
-            "leshiyuncdn"
-        ],
-        "regex": [
-            "15.92"
-        ]
-    },
+
     {
         "name": "1080zyk",
-        "hosts": [
-            "playback",
-            "yzzy"
-        ],
+        "hosts": ["playback","yzzy"],
         "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXTINF:3.333333,[\\s\\S]*?"
         ]
     },
-    {
-        "name": "555DM",
-        "hosts": [
-            "cqxfjz"
-        ],
-        "regex": [
-            "10.56"
-        ]
-    },
-    {
-        "name": "海外看",
-        "hosts": [
-            "haiwaikan"
-        ],
-        "regex": [
-            "10.0099",
-            "10.3333",
-            "16.0599",
-            "8.1748",
-            "10.85"
-        ]
-    },
+
         {"name":"磁力广告","hosts":["magnet"],"regex":["更多","社 區","x u u","最 新","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}
 ],
     
