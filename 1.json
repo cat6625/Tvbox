@@ -28,6 +28,8 @@
 {"key":"米兔","name":"🐰米兔","type":3,"quickSearch":0,"api":"csp_MiTuApp","ext":"sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk=",
 "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"},
 
+{"key":"星辰xBPQ","name":"✫星辰","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}","分类":"电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju","简介":"友情提醒🔺勿信广告，避免受骗🔺+class=\"detail-sketch\">&&</span>","线路数组":"#playlist&&</li>","线路标题":"X接口💠+>&&</a>[排序:神马云播>阿里云播>]","播放标题":">&&<[不包含:1080P]"}},
+
 {"key":"T4-独播库","name":"🔥️独播库","type":4,"api":"https://tang.hz.cz/power/duboku?token=48da13fc","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://4tvbox.ggff.net/GM.jar"}
 ],
   
