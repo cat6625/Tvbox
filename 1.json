@@ -1,26 +1,21 @@
 {
-    
+  "spider": "https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
  
   "sites": [
-{"key":"文才","name":"🖊文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false},
-"jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
+{"key":"文才","name":"🖊文才","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":false}},
 
-{"key":"飞飞","name":"🛫飞飞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片年代":"<div class=\"module-info-tag\">&&</div>","影片地区":"宝盒专享","影片状态":"备注：&&</div>","影片类型":"module-info-tag\">&&立即播放","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"},
-"jar":"https://gh-proxy.com/https://github.com/ysztcn/ysztcn.github.io/raw/refs/heads/master/tvbox/jar/X.jar"},
+{"key":"飞飞","name":"🛫飞飞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片年代":"<div class=\"module-info-tag\">&&</div>","影片地区":"宝盒专享","影片状态":"备注：&&</div>","影片类型":"module-info-tag\">&&立即播放","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"}},
 
 {"key": "素白白","name":"⬜素白白","type": 3,
 "api": "https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-"ext": "https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/素白白.js",
-"jar": "https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
+"ext": "https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/素白白.js"},
 
-{"key": "韩小圈","name": "🔘韩小圈","type": 3,"api": "csp_HanXiaoQuan","searchable": 1,"quickSearch": 1,"filterable": 1,
-"jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
+{"key": "韩小圈","name": "🔘韩小圈","type": 3,"api": "csp_HanXiaoQuan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/http://raw.githubusercontent.com/guot55/yg/refs/heads/main/h/tvbyun.json",
 "jar":"https://gh-proxy.com/https://github.com/guot55/yg/raw/refs/heads/main/jar/xBPQ_1106.jar"},
 
-{"key":"时常","name":" 💦时常","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ=",
-"jar":"https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar"},
+{"key":"时常","name":" 💦时常","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="},
 
 {"key":"csp_XBPQ剧圈圈在线","name":"⭕剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"filterable":0,"changeable":0,"ext":{"主页url":"https://www.jqqzx.cc","请求头":"Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1","分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html","分类":"电视剧$juji#电影$dianying#动漫$dongman#爽剧$shuangju#综艺$zongyi#纪录片$jilupian"},
 "jar":"https://gh-proxy.com/https://github.com/ysztcn/ysztcn.github.io/raw/refs/heads/master/tvbox/jar/X.jar"},
