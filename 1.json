@@ -65,7 +65,7 @@
    
 {"name": "非凡","hosts": ["ffzy","vip.ffzy","hd.ffzy","super.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","25.0666"]},
     
-{"name": "ryplay","hosts": ["ryplay"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.533333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name": "ryplay","hosts": ["ryplay"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.533333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 
 //{"name": "1080zyk","hosts": ["playback","yzzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXTINF:3.333333,[\\s\\S]*?#EXTINF:3.300000,[\\s\\S]*?#EXTINF:3.333333,[\\s\\S]*?#EXTINF:3.333333,[\\s\\S]*?"]},
     
