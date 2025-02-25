@@ -67,8 +67,6 @@
     
 {"name": "ryplay","hosts": ["ryplay8","ryplay14","ryplay2","ryplay6"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.533333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 
-{"name": "ryplay10","hosts": ["ryplay10"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1.200000,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-
 //{"name": "1080zyk","hosts": ["playback","yzzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXTINF:3.333333,[\\s\\S]*?#EXTINF:3.300000,[\\s\\S]*?#EXTINF:3.333333,[\\s\\S]*?#EXTINF:3.333333,[\\s\\S]*?"]},
     
 {"name": "索尼","hosts": ["suonizy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","15.1666","15.2666" ]},
