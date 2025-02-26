@@ -61,8 +61,8 @@
 
 {"name": "暴风", "hosts": ["bfzy","bfbfvip","bfengbf","c1","bbffvip"],"regex": ["#EXTINF.*?\\s+.*?adjump.*?\\.ts"]},
     
-{"name": "量子","hosts": ["lz","vip.lz","hd.lz","v.cdnlz",".cdnlz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+", "18.5333"]},
-   
+{"name": "量子","hosts": ["lz","vip.lz","hd.lz","v.cdnlz",".cdnlz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.866667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    
 {"name": "非凡","hosts": ["ffzy","vip.ffzy","hd.ffzy","super.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.566667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},  
 
 {"name": "ryplay","hosts": ["ryplay8","ryplay14","ryplay2","ryplay6"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.533333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
