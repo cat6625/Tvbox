@@ -14,8 +14,8 @@
 
 {"key": "韩小圈","name": "🔘韩小圈","type": 3,"api": "csp_HanXiaoQuan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_XBPQTVB影视","name":"☁️极速云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/http://raw.githubusercontent.com/guot55/yg/refs/heads/main/h/tvbyun.json",
-"jar":"https://gh-proxy.com/https://github.com/guot55/yg/raw/refs/heads/main/jar/xBPQ_1106.jar"},
+{"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/",
+"jar":"http://nctv.top/tv/jar/ncdjaj.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"},
 
 {"key":"时常","name":" 💦时常","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="},
 
